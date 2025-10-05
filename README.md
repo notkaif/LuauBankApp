@@ -1,2 +1,3 @@
-# BankApp
-Terminal based banking application written in Luau.
+# Command Line Luau Banking App
+Banking console application written in Luau.
+
